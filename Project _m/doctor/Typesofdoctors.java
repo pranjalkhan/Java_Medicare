@@ -23,7 +23,7 @@ public class Typesofdoctors extends JFrame implements ActionListener {
 
 		panel = new JPanel();
 		panel.setLayout(null);
-		panel.setBackground(new Color(0, 71, 171));
+		// panel.setBackground(new Color(0, 71, 171));
 
 		img = new ImageIcon("Homepage\\doc.jpg");
 		label6 = new JLabel(img);
