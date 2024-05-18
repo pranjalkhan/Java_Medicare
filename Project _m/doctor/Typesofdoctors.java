@@ -25,11 +25,6 @@ public class Typesofdoctors extends JFrame implements ActionListener {
 		panel.setLayout(null);
 		// panel.setBackground(new Color(0, 71, 171));
 
-		img = new ImageIcon("Homepage\\doc.jpg");
-		label6 = new JLabel(img);
-		label6.setBounds(0, 0, 1200, 673);
-		panel.add(label6);
-
 		// Left column buttons
 		a1Btn = new JButton("Cardiologist");
 		a1Btn.setBounds(130, 300, 250, 50);
