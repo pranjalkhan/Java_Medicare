@@ -67,11 +67,13 @@ public class Accounts {
                     flag = true;
                 }
             }
-            sc.close();
+
         } catch (IOException ioe) {
             ioe.printStackTrace();
         }
 
         return flag;
+
     }
+
 }
