@@ -32,7 +32,7 @@ public class Dermatologist extends JFrame implements ActionListener {
 		a1.setFont(myfont);
 		panel.add(a1);
 
-		a2 = new JLabel("MBBS");
+		a2 = new JLabel("Dermatologist");
 		a2.setBounds(100, 120, 500, 20);
 		a2.setFont(myfont);
 		panel.add(a2);
@@ -47,7 +47,7 @@ public class Dermatologist extends JFrame implements ActionListener {
 		a4.setFont(myfont);
 		panel.add(a4);
 
-		a5 = new JLabel("M.B.B.S");
+		a5 = new JLabel("Dermatologist");
 		a5.setBounds(100, 200, 500, 20);
 		a5.setFont(myfont);
 		panel.add(a5);
